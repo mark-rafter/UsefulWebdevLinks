@@ -6,6 +6,8 @@
 
 [Buefy](https://buefy.org/) - Vue.js with Bulma
 
+[CloudAMQP](https://www.cloudamqp.com/plans.html) - RabbitMQ as a Service (has free plan)
+
 [coverlet](https://github.com/tonerdo/coverlet) - .NET code coverage tool
 
 [Divjoy](https://www.divjoy.com) - React codebase generator
