@@ -13,3 +13,8 @@
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
+
+
+# ASP.NET
+
+[Enforcing SSL](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-2.2&tabs=visual-studio)
