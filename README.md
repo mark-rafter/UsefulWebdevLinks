@@ -20,6 +20,7 @@
 
 [Enforcing SSL](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-2.2&tabs=visual-studio)
 
+[dotNetify](https://github.com/dsuryd/dotNetify)
 
 ## Blazor
 
