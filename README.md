@@ -1,4 +1,5 @@
 # Useful Webdev Links
+## General
 
 [ApexCharts](https://apexcharts.com/javascript-chart-demos) - Chart rendering in JS / Vue / React
 
@@ -15,6 +16,13 @@
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
 
-# ASP.NET
+## ASP.NET
 
 [Enforcing SSL](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-2.2&tabs=visual-studio)
+
+
+## Blazor
+
+[PWA Guide](https://medium.com/@k.l.mueller/create-progressive-web-apps-with-net-using-blazor-6aa719e38000)
+
+[Push Notifications Extension](https://github.com/BlazorExtensions/Notifications)
