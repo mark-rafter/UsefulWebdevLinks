@@ -13,6 +13,8 @@
 
 [coverlet](https://github.com/tonerdo/coverlet) - .NET code coverage tool
 
+[Design Patterns Catalog](https://refactoring.guru/design-patterns/catalog)
+
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
