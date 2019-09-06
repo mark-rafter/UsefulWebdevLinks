@@ -17,6 +17,8 @@
 
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
+[Google Engineering Practices](https://github.com/google/eng-practices)
+
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
 
