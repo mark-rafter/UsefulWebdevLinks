@@ -21,6 +21,8 @@
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
+[Web security basics](https://github.com/vasanthk/web-security-basics)
+
 [Webpack Generator](https://createapp.dev/)
 
 ## ASP.NET
