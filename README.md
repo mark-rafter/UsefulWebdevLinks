@@ -21,6 +21,8 @@
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
+[SapphireDb](https://sapphire-db.com/start/main) - Open source alternative to Firebase
+
 [Web security basics](https://github.com/vasanthk/web-security-basics)
 
 [Webpack Generator](https://createapp.dev/)
