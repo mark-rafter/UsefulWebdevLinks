@@ -13,6 +13,8 @@
 
 [coverlet](https://github.com/tonerdo/coverlet) - .NET code coverage tool
 
+[dbdiagram.io](https://dbdiagram.io) - auto-generated schema diagrams from code
+
 [Design Patterns Catalog](https://refactoring.guru/design-patterns/catalog)
 
 [Divjoy](https://www.divjoy.com) - React codebase generator
