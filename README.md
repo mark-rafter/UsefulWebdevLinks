@@ -3,8 +3,6 @@
 
 [ApexCharts](https://apexcharts.com/javascript-chart-demos) - Chart rendering in JS / Vue / React
 
-[AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Guide to most useful ASP.NET Core technologies
-
 [Buefy](https://buefy.org/) - Vue.js with Bulma
 
 [CliFx](https://github.com/Tyrrrz/CliFx) - .NET Core CLI framework
@@ -40,3 +38,9 @@
 [PWA Guide](https://medium.com/@k.l.mueller/create-progressive-web-apps-with-net-using-blazor-6aa719e38000)
 
 [Push Notifications Extension](https://github.com/BlazorExtensions/Notifications)
+
+## Compiled Lists 📝
+
+[AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Guide to most useful ASP.NET Core technologies
+
+[awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization
