@@ -23,8 +23,6 @@
 
 [SapphireDb](https://sapphire-db.com/start/main) - Open source alternative to Firebase
 
-[Web security basics](https://github.com/vasanthk/web-security-basics)
-
 [Webpack Generator](https://createapp.dev/)
 
 ## ASP.NET
@@ -44,3 +42,9 @@
 [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Guide to most useful ASP.NET Core technologies
 
 [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization
+
+## Security 🔒
+
+https://securityheaders.com - Diagnose HTTP headers
+
+[Web security basics](https://github.com/vasanthk/web-security-basics)
