@@ -21,7 +21,8 @@
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
-[SapphireDb](https://sapphire-db.com/start/main) - Open source alternative to Firebase
+
+[Kuzzle](https://kuzzle.io) / [SapphireDb](https://sapphire-db.com/start/main) - Open source alternatives to Firebase
 
 [Webpack Generator](https://createapp.dev/)
 
