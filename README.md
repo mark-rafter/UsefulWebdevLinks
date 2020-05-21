@@ -17,6 +17,8 @@
 
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
+[FeatherHttp](https://github.com/featherhttp/framework) - Single file .NET Core HTTP API
+
 [Google Engineering Practices](https://github.com/google/eng-practices)
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
