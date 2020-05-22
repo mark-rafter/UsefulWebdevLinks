@@ -21,6 +21,8 @@
 
 [Google Engineering Practices](https://github.com/google/eng-practices)
 
+[hCaptcha](https://docs.hcaptcha.com/) - Free reCAPTCHA alternative
+
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
 
