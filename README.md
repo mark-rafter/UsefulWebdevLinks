@@ -23,6 +23,8 @@
 
 [hCaptcha](https://docs.hcaptcha.com/) - Free reCAPTCHA alternative
 
+[homoglyph](https://github.com/codebox/homoglyph) - string search with homoglyphs
+
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
 
