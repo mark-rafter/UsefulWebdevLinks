@@ -17,6 +17,8 @@
 
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
+[Favicon Generator](https://realfavicongenerator.net)
+
 [FeatherHttp](https://github.com/featherhttp/framework) - Single file .NET Core HTTP API
 
 [Google Engineering Practices](https://github.com/google/eng-practices)
@@ -26,7 +28,6 @@
 [homoglyph](https://github.com/codebox/homoglyph) - string search with homoglyphs
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
-
 
 [Kuzzle](https://kuzzle.io) / [SapphireDb](https://sapphire-db.com/start/main) - Open source alternatives to Firebase
 
@@ -39,6 +40,8 @@
 [dotNetify](https://github.com/dsuryd/dotNetify)
 
 [LettuceEncrypt](https://github.com/natemcmaster/LettuceEncrypt)
+
+[ASP.NET Core PWA Package](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker)
 
 ## Blazor
 
