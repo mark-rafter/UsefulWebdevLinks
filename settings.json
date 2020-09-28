@@ -1,0 +1,64 @@
+{
+    "csharp.semanticHighlighting.enabled": true,
+    "csharp.suppressBuildAssetsNotification": true,
+    "csharp.suppressDotnetInstallWarning": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.fontSize": 13,
+    "git.enableSmartCommit": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "files.exclude": {
+        "**/.vs": true,
+        "**/bin": true,
+        "**/obj": true
+    },
+    "files.watcherExclude": {
+        "**/bin": true,
+        "**/obj": true
+    },
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "textMateRules": [
+                {
+                    "scope": [
+                        "entity.name.type.interface.cs",
+                        "storage.type.interface.cs",
+                    ],
+                    "settings": {
+                        "foreground": "#b8d7a3"
+                    }
+                },
+                {
+                    "scope": [
+                        "entity.name.type.type-parameter.cs",
+                        "storage.type.type-parameter.cs",
+                    ],
+                    "settings": {
+                        "foreground": "#f0c982"
+                    }
+                },
+                {
+                    "scope": [
+                        "entity.name.type.namespace.cs",
+                        "entity.name.variable.field.cs",
+                        "variable.other.object.property.cs"
+                    ],
+                    "settings": {
+                        "foreground": "#dbdbdb"
+                    }
+                },
+                {
+                    "scope": "comment",
+                    "settings": {
+                        "fontStyle": "italic"
+                    },
+                },
+            ]
+        }
+    }
+}
