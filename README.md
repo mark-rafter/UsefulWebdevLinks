@@ -35,6 +35,11 @@
 
 [Webpack Generator](https://createapp.dev/)
 
+## Hosting
+[Cloudinary](https://cloudinary.com) - free media CDN ([Cloudinary.NET](https://github.com/cloudinary/CloudinaryDotNet))
+
+[imgBB](https://imgbb.com) - simple, free image CDN
+
 ## ASP.NET
 
 [Enforcing SSL](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl?view=aspnetcore-2.2&tabs=visual-studio)
