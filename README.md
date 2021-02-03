@@ -31,6 +31,8 @@
 
 [Kuzzle](https://kuzzle.io) / [SapphireDb](https://sapphire-db.com/start/main) - Open source alternatives to Firebase
 
+[SlugGenerator](https://github.com/polischuk/SlugGenerator) - .NET slug generation
+
 [SVG Repo](https://www.svgrepo.com)
 
 [Webpack Generator](https://createapp.dev/)
