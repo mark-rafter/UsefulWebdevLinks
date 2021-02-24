@@ -21,6 +21,8 @@
 
 [FeatherHttp](https://github.com/featherhttp/framework) - Single file .NET Core HTTP API
 
+[Free for devs](https://free-for.dev) - list of free platforms / APIs / etc
+
 [Google Engineering Practices](https://github.com/google/eng-practices)
 
 [hCaptcha](https://docs.hcaptcha.com/) - Free reCAPTCHA alternative
