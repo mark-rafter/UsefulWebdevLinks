@@ -31,7 +31,7 @@
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
-[Kuzzle](https://kuzzle.io) / [SapphireDb](https://sapphire-db.com/start/main) - Open source alternatives to Firebase
+[Supabase](https://supabase.io) / [Kuzzle](https://kuzzle.io) / [SapphireDb](https://sapphire-db.com/start/main) - OSS Firebase
 
 [SlugGenerator](https://github.com/polischuk/SlugGenerator) - .NET slug generation
 
