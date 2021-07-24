@@ -3,6 +3,8 @@
 
 [ApexCharts](https://apexcharts.com/javascript-chart-demos) - Chart rendering in JS / Vue / React
 
+[appsmith](https://github.com/appsmithorg/appsmith)
+
 [Buefy](https://buefy.org/) - Vue.js with Bulma
 
 [CliFx](https://github.com/Tyrrrz/CliFx) - .NET Core CLI framework
