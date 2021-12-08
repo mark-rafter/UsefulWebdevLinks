@@ -33,6 +33,8 @@
 
 [JSON Utils](https://www.jsonutils.com/) - Convert JSON to code
 
+[Podman Desktop Companion](https://github.com/iongion/podman-desktop-companion) - podman GUI
+
 [Supabase](https://supabase.io) / [Kuzzle](https://kuzzle.io) / [SapphireDb](https://sapphire-db.com/start/main) - OSS Firebase
 
 [SlugGenerator](https://github.com/polischuk/SlugGenerator) - .NET slug generation
