@@ -19,6 +19,8 @@
 
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
+[elestio](https://elest.io/) - Managed OSS as a service
+
 [Favicon Generator](https://realfavicongenerator.net)
 
 [FeatherHttp](https://github.com/featherhttp/framework) - Single file .NET Core HTTP API
