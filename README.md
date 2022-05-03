@@ -5,6 +5,8 @@
 
 [appsmith](https://github.com/appsmithorg/appsmith)
 
+[Buddy](https://buddy.works/) - free CI/CD platform
+
 [Buefy](https://buefy.org/) - Vue.js with Bulma
 
 [Carrd](https://carrd.co)
@@ -22,6 +24,8 @@
 [Divjoy](https://www.divjoy.com) - React codebase generator
 
 [elestio](https://elest.io/) - Managed OSS as a service
+
+[EVA](https://eva.pingutil.com/) - Email Verification API
 
 [Favicon Generator](https://realfavicongenerator.net)
 
